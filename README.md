@@ -2,7 +2,6 @@
 
 I am Samuel Reuel Chinonyerem
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my technical skills
 - 🌱 I’m currently learning Data Analysis with NG 30 days of learning
